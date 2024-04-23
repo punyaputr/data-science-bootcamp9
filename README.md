@@ -1,23 +1,14 @@
-# Data Science Bootcamp Batch 9
+# Data Analyst Portfolio
 
-I'm learning data science bootcamp. There are 10 sprints in the program.
+I'm enjoy the challenge of extracting insights from data
 
-## First part of the program
+## Here is my Project
 
-- Intro to data science
-- Spreadsheets
-- SQL Databases
-- R programming
-- Data Transformation
-- Data Visualization
-
-## Second part of the program
-
-- Building website portfolio
-- Essential Statistics
-- Machine Learning for Data Analyst
-- Python programming
-- Essential Python for Data Analyst
-- Dashboard with Looker Studio
+- Data transformation project
+- Data vizualization project
+- Python project
+- R project
+- SQL project
+- Machine learning
 
 Contact: punyaputr.s@gmail.com
